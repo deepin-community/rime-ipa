@@ -1,0 +1,23 @@
+rime-ipa (0.0~git20200413.22b7171-3) UNRELEASED; urgency=medium
+
+  * update
+
+ -- Debian Input Method Team <debian-input-method@lists.debian.org>  Fri, 22 Apr 2022 19:34:20 +0800
+
+rime-ipa (0.0~git20200413.22b7171-3) unstable; urgency=high
+
+  * Fix incorrect binary package type: arch:all -> arch:any.
+
+ -- Boyuan Yang <byang@debian.org>  Tue, 15 Feb 2022 15:29:59 -0500
+
+rime-ipa (0.0~git20200413.22b7171-2) unstable; urgency=medium
+
+  * Source-only upload.
+
+ -- Boyuan Yang <byang@debian.org>  Wed, 09 Feb 2022 17:07:11 -0500
+
+rime-ipa (0.0~git20200413.22b7171-1) unstable; urgency=medium
+
+  * Initial release. (Closes: #1002554)
+
+ -- Boyuan Yang <byang@debian.org>  Thu, 23 Dec 2021 20:54:28 -0500
